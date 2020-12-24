@@ -1,3 +1,3 @@
-# Kyanite 💠
+# 💠 Kyanite 💠
 
-Image processing tool for personal purposes, nothing serious (yet 💎)
+Image processing tool for personal purposes, nothing serious (yet).
