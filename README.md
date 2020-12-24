@@ -1,5 +1,5 @@
 # Kyanite
 
-![](images/kyanite_logo_mini.png)
+![](images/kyanite_banner.png)
 
 Image processing tool for personal purposes, nothing serious (yet).
